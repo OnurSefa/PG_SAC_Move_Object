@@ -1,0 +1,8 @@
+numpy~=2.0.2
+torch~=2.6.0
+mlflow~=2.20.3
+mlflow-skinny~=2.20.3
+matplotlib~=3.9.4
+torchvision~=0.21.0
+mujoco~=2.3.2
+pillow

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/os/Desktop/master/robot/Policy_Gradient_Move_Object/mlruns/0/e3a967226eef41d1875c0ce057742f7a/artifacts
+deleted_time: 1743288146942
+end_time: 1743287911736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e3a967226eef41d1875c0ce057742f7a
+run_name: '0017'
+run_uuid: e3a967226eef41d1875c0ce057742f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743287904266
+status: 3
+tags: []
+user_id: os
